@@ -1,4 +1,3 @@
-import funcoes
+from funcoes import *
 
-print(dir(funcoes))
-
+menu('MENU')
