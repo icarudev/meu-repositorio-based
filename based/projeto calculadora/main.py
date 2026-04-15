@@ -1,3 +1,3 @@
-from funcoes import *
+import funcoes
 
-menu('MENU')
+funcoes.menu('MENU')
