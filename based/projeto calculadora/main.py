@@ -1,3 +1,3 @@
 from funcoes import *
 
-menu('MENU')
+print('teste')
